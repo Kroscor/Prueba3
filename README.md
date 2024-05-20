@@ -16,3 +16,6 @@ java HolaMundo
 
 ## Aprendizaje de Java
 Te recomiendo el libro [Aprende Java con Ejercicios](https://leanpub.com/aprendejava) :wink:
+
+# Mejora
+Realiza muchas pruebas con estos ejercicios
